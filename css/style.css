@@ -210,6 +210,10 @@ footer p{
     font-size: 14px;
     font-weight: 500;
 }
+.footer-text .social-media a{
+    text-decoration: none;
+    color: #FFFFFF;
+}
 .social-media i{
     margin: 5px;
     background-color: #f7f2f22d;
